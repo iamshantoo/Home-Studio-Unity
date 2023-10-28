@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b81212279c46a614ebfda1606dbd56db
+guid: f4dc0db395a8e0943870a6e87d3d2046
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,38 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Base
-    second: {fileID: 2100000, guid: 1d6ee23d785058d4d954f94a355c7d01, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Cable_texture
-    second: {fileID: 2100000, guid: b1659f08ab1f6d042ba43ebb68df17d8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #612
-    second: {fileID: 2100000, guid: dcdb46f98e25e3846be46288f0cfbcde, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material #614
-    second: {fileID: 2100000, guid: 5536fc1d082b3f34f8b1af39fb28ab5f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Sieve
-    second: {fileID: 2100000, guid: 6ff155fa68f167e4dba0e264a4b8a425, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: foam
-    second: {fileID: 2100000, guid: 0055cf2f417fd424d825b630c3a3e449, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: water banh
-    second: {fileID: 2100000, guid: 4f91e409afb85a14c8a8f4d90b0e764b, type: 2}
+      name: Material #25
+    second: {fileID: 2100000, guid: c578f77937acc3243b34e3800e227f95, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
